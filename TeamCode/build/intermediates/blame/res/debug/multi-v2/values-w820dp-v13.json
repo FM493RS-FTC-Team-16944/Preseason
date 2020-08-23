@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FTC\\SkyStone-master\\TeamCode\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\anusr_000\\AndroidStudioProjects\\Preseason\\TeamCode\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\FTC\\SkyStone-master\\FtcRobotController\\build\\intermediates\\packaged_res\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "source": "C:\\Users\\anusr_000\\AndroidStudioProjects\\Preseason\\FtcRobotController\\build\\intermediates\\packaged_res\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-#Sun Aug 16 16:29:43 PDT 2020
-base.0=D\:\\FTC\\SkyStone-master\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sun Aug 23 14:56:41 PDT 2020
+base.0=C\:\\Users\\anusr_000\\AndroidStudioProjects\\Preseason\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
